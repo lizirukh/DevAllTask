@@ -13,8 +13,8 @@ class DatabaseUtils
     {
         $this->servername = 'localhost';
         $this->username = 'root';
-        $this->password = 'Worakls2018';
-        $this->dbname = 'learning2';
+        $this->password = 'password';
+        $this->dbname = 'dbname';
         $this->charset = 'utf8mb4';
 
         try {
